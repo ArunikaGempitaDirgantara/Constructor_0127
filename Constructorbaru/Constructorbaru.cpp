@@ -15,4 +15,7 @@ public:
 	Mahasiswa(int iNim) {
 		nim = iNim;
 	}
+	Mahasiswa(string iNama) {
+		nama = iNama;
+	}
 };
