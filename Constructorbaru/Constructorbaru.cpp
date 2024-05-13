@@ -9,6 +9,7 @@ public:
 public:
 	Mahasiswa()
 	{
-
+		nim = 0;
+		nama = "";
 	};
 };
