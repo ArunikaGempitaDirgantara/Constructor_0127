@@ -42,4 +42,9 @@ int main()
 	Mahasiswa::setNim(9); //mengakses nim melalui static member function "setNim"
 	Mahasiswa mhs3("Azmi");
 	Mahasiswa mhs4("People");
+
+	mhs1.printAll();
+	mhs2.printAll();
+	mhs3.printAll();
+	mhs4.printAll();
 }
