@@ -29,3 +29,8 @@ public:
 		cout << "Nama = " << nama << endl;
 	}
 };
+
+int main()
+{
+
+}
