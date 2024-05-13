@@ -5,4 +5,10 @@ class Mahasiswa {
 public:
 	int nim;
 	string nama;
+
+public:
+	Mahasiswa()
+	{
+
+	};
 };
